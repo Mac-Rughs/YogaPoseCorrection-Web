@@ -1,0 +1,6 @@
+Flask
+opencv-python
+mediapipe
+matplotlib
+gtts
+playsound==1.2.2
